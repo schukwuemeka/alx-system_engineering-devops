@@ -1,2 +1,3 @@
-#!/bib/bash
+#!/bin/bash
 pwd
+Hello, World
